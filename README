@@ -1,0 +1,8 @@
+Hi! This is the Python code I run whenever I need to crunch
+the numbers necessary to produce weekly tallies for themed
+Art Fights, events that a friend and I host on occasion.
+
+This is free to use and modify. The only thing to take note
+of is that this particular piece of code expects a specific
+.csv format when using `clean_csv()` so please be careful
+and tweak it for your use.
